@@ -1,4 +1,12 @@
-### Hi there 👋
+### "E aí pessoas!" \o/ 👋
+
+Meu nome é Adriano, sou do Brasil, formado em análise e desenvolvimento de sistemas. Gosto muito de aprender coisas novas, já completei vários cursos na Alura e atualmente estou participando da #imersaoReact. Na faculdade meu foco era Java, mas depois que comecei a participar dessa imersão tenho gostado muito do Front-End e tenho estudado HTML, CSS e Javascript que estão me conquistando.
+Atualmente trabalho como auxiliar administrativo na Prefeitura da minha cidade, mas pretendo trabalhar como dev assim que conseguir uma oportunidade.
+
+Gostaria de me encontrar?
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/adriano_valenca)](https://twitter.com/adriano_valenca)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriano-valenca-da-costa/)](https://www.linkedin.com/in/adriano-valenca-da-costa/)
 
 <!--
 **adriano-valenca/adriano-valenca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
