@@ -1,6 +1,6 @@
 ### "E aí pessoas!" \o/ 👋
 
-Meu nome é Adriano, sou do Brasil, formado em análise e desenvolvimento de sistemas. Gosto muito de aprender coisas novas, já completei vários cursos na Alura e atualmente estou participando da #imersaoReact. Na faculdade meu foco era Java, mas depois que comecei a participar dessa imersão tenho gostado muito do Front-End e tenho estudado HTML, CSS e Javascript que estão me conquistando.
+Meu nome é Adriano, sou do Brasil, formado em análise e desenvolvimento de sistemas. Gosto muito de aprender coisas novas, já completei vários cursos Online. Na faculdade meu foco era Java, mas depois que comecei a participar das imersões da Alura tenho gostado muito do Front-End e tenho estudado HTML, CSS e Javascript que estão me conquistando.
 Atualmente trabalho como auxiliar administrativo na Prefeitura da minha cidade, mas pretendo trabalhar como dev assim que conseguir uma oportunidade.
 
 Gostaria de me encontrar?
